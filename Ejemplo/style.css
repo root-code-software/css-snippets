@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow: hidden;
+}
+.wrapper{
+    position: absolute;
+    width: 300px;
+    height: 100vh;
+    background: white;
+}
+
+
+.wrapper{
+
+    
+    text-decoration: none;
+    display: flex;
+    place-items: center;
+    padding: 15px;
+    color: white;
+    font-size: 20px;
+    
+    
+}
+
+li{
+    outline: 1px solid white;
+    transition: all .3s;
+    
+}
+h4{
+     text-align: right;
+}
+p{
+    text-align: right; 
+}
+
+li:hover{
+    background: rgb(24, 241, 133);
+    border-left: 3px solid white;
+}
+.content{
+    height: 150px;
+  width: 1000px;
+    float: right;
+   }
