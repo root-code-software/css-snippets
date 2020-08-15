@@ -5,3 +5,9 @@ Small count and labeling component. Badges are similar to labels; the primary di
 ## Expected
 
 ## Solutions
+
+- Israel-Laguan
+    <details>
+        <summary>Example</summary>
+        <img src="./israel-laguan/CO01.png" alt="example" />
+    </details>
