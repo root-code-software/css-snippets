@@ -2,7 +2,7 @@
 
 | ID | Name | Description | Dificulty | Needs JS? | Examples |
 | --- | --- | :---: | :---: | :---: | :---: |
-| Basic |
+||<td colspan=3> Basic ||
 | Tag Enhancements |
 | TE01 | Responsive image (fluid) | | | | |
 | TE02 | Avatar - Circular image | | | | |
